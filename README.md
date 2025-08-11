@@ -7,16 +7,16 @@ The dashboard provides a comprehensive view of workforce demographics, salaries,
 
 ## What’s Included in the Dashboard?
 
-- **Total Employees** – Interactive KPI card that updates based on filters.
-- **Average Monthly Income** – KPI card that changes dynamically with selections.
-- **Average Performance Rating** – KPI card responsive to filters.
-- **Average Job Satisfaction** – KPI card responsive to filters.
-- **Gender Distribution** – Interactive chart that changes based on office, role, and age filters.
-- **Age Distribution** – Bar chart showing employee counts by age groups.
-- **Job Role Composition** – Distribution of employees across job roles.
-- **Years at Company vs Attrition** – Visual showing tenure distribution and attrition counts.
-- **Geographic Office Map** – Circle size proportional to the number of employees per office.
-- **Attrition Key Influencers** – Visual showing main factors correlated with attrition (e.g., overtime, tenure, job satisfaction).
+- **Total Employees** 
+- **Average Monthly Income** 
+- **Average Performance Rating** 
+- **Average Job Satisfaction** 
+- **Gender Distribution** 
+- **Age Distribution** 
+- **Job Role Composition** 
+- **Years at Company vs Attrition** 
+- **Geographic Office Map** 
+- **Attrition Key Influencers** 
 
 > *See the pdf later for a preview of the dashboard*  
 > *A full walkthrough video is also available in this repository*
