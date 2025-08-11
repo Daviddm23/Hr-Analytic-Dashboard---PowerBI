@@ -16,7 +16,7 @@ The dashboard provides a comprehensive view of workforce demographics, salaries,
 - **Job Role Composition** – Distribution of employees across job roles.
 - **Years at Company vs Attrition** – Visual showing tenure distribution and attrition counts.
 - **Geographic Office Map** – Circle size proportional to the number of employees per office.
-- **Attrition Key Influencers** – AI-driven visual showing main factors correlated with attrition (e.g., overtime, tenure, job satisfaction).
+- **Attrition Key Influencers** – Visual showing main factors correlated with attrition (e.g., overtime, tenure, job satisfaction).
 
 > *See the pdf later for a preview of the dashboard*  
 > *A full walkthrough video is also available in this repository*
